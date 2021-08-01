@@ -1,7 +1,7 @@
 - 👋 Hi, I’m a retired mathematician with practical signal processing skills.
 - 👀 I’m interested in cognitive simulations
 - 🌱 I’m currently learning Active Inference, MDP (exemplar Karl Friston),
-- 💞️ I’m looking to collaborate on ..Oscilatory Neural Connectome dynamics,exemplar.(Danielle Bassett)
+- 💞️ I’m looking to collaborate on ..Oscillatory Neural Connectome dynamics, (exemplar.Danielle Bassett)
 - 📫 How to reach me ... email works best: richard.body at shaw.ca
 
 <!---
